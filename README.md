@@ -1,3 +1,3 @@
-## Personal Website
+# Website development
 
- Built using ***Rails***
+Built in ***Rails***
