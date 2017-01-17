@@ -11,7 +11,23 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
-
+#services {
+  height: 100%;
+  background-color: #fff;
+}
+*.fa-circle {
+  color: #026ed9;
+}
+.fa-commenting::before,
+.fa-compass::before,
+.fa-group::before,
+.fa-lightbulb-o::before,
+.fa-battery-full::before,
+.fa-thumbs-o-up::before,
+.fa-eye::before
+{
+  color: #fff;
+}
 body {
   margin: 0;
 }
